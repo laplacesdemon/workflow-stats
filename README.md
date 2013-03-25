@@ -8,7 +8,7 @@ The programs/apps in this project helps you to keep track your software usage an
 ROADMAP
 -------
 
-1. Monitor app usage [Done - See `monitor_app.py`
+1. Monitor app usage [Done - See `monitor_app.py`]
 2. Motinor task usage (by manually entering what are you working on at that moment)
 3. Taking screenshots each time you log on
 4. Bundle this app in package that can be add to start app programs (or a automator script)
