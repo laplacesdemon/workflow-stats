@@ -3,15 +3,15 @@ WORKFLOW STATS
 
 `*WARNING* Mac OSX only`
 
-The programs/apps in this project helps you to keep track your software usage and to store useful statistics about your work habits.
+The programs/apps in this project helps you keep track of your software usage and store useful statistics about your working habits.
 
 ROADMAP
 -------
 
 1. Monitor app usage [Done - See `monitor_app.py`]
 2. Motinor task usage (by manually entering what are you working on at that moment)
-3. Taking screenshots each time you log on
-4. Bundle this app in package that can be add to start app programs (or a automator script)
+3. Taking iSight camera screenshot each time you log on
+4. Bundle this app in a package that can be added to start app programs (or a automator script)
 5. Bundle this app in an OSX app that has an interface and submit it to the store.
 
 INSTALLATION
